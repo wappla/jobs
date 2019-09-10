@@ -1,6 +1,6 @@
 Wappla is on the hunt for a full-time PHP Developer to join our startup team.
 The primary role of this position is to build state-of-the-art web applications for our clients.
-We are focused on engineering the future of our clients' business through software development. In practice this is realized by offering high quality software engineering services and support to startups and companies worldwide ranging from indivual creatives to global players.
+Wapple is a company with a passion for building digital products. We enable businesses to capitalize on new opportunities through digital innovation. Software is at the heart of everything we do. We love writing code and bringing ambitious product visions to life.
 
 Our offices are located in Schoten, Belgium.
 
@@ -45,6 +45,7 @@ Our offices are located in Schoten, Belgium.
 - MacBook and iPhone (or Nexus if you really want...)
 - Mobile Subscription with 10Gb internet 
 - Hospitalization insurance
+- Meal vouchers
 - Ecocheques
 - 1 unlisted perk (apply to find out what it is)
 
