@@ -1,6 +1,6 @@
 Wappla is on the hunt for a full-time Javascript engineer to join our team.
 The primary role of this position is to build state-of-the-art web applications for our clients.
-Wappla is a company committed to delivering hight quality digital products with lasting impact. In doing so we solve critical business problems and brings ambitious product visions to life. We strive for a seamless and structured development process through operational excellence and high quality standards.
+Wapple is a company with a passion for building digital products. We enable businesses to capitalize on new opportunities through digital innovation. Software is at the heart of everything we do. We love writing code and bringing ambitious product visions to life.
 
 Our offices are located in Wijnegem, Belgium.
 
@@ -44,6 +44,7 @@ Our offices are located in Wijnegem, Belgium.
 - MacBook and iPhone (or Nexus if you really want...)
 - Mobile Subscription with 10Gb internet 
 - Hospitalization insurance
+- Meal vouchers
 - Ecocheques
 - 1 unlisted perk (apply to find out what it is)
 
