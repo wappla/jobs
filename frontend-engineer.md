@@ -1,3 +1,6 @@
+#Frontend Engineer - Follow the white rabbit
+
+
 Wappla is on the hunt for a full-time Javascript engineer to join our team.
 The primary role of this position is to build state-of-the-art web applications for our clients.
 Wapple is a company with a passion for building digital products. We enable businesses to capitalize on new opportunities through digital innovation. Software is at the heart of everything we do. We love writing code and bringing ambitious product visions to life.
@@ -51,4 +54,6 @@ Our offices are located in Wijnegem, Belgium.
 
 # Contact us
 
-If this job description piqued your interest, let's have a chat!
+>You take the blue pill—the story ends, you wake up in your bed and believe whatever you want to believe. You take the red pill—you stay in Wonderland, and I show you how deep the rabbit hole goes.
+
+Are you ready to take the red pill?
