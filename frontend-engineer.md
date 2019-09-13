@@ -1,6 +1,6 @@
 # Frontend Engineer - Follow the white rabbit
 
-Wappla is on the hunt for a full-time Frontend engineer to join our team. 
+Wappla is on the hunt for a full-time Frontend engineer to join our startup team. 
 
 The primary role of this position is to build state-of-the-art digital products in a wide variety of industries.
 
@@ -10,7 +10,7 @@ Our offices are located in Wijnegem, Belgium.
 
 # Responsibilities
 - Write well designed, testable, efficient code by using best software development practices
-- Create site layout/user interface by using standard HTML/CSS practices
+- Create app layout/user interface by using standard HTML/CSS practices
 - Integrate data from various back-end services and databases
 - Gather and refine specifications and requirements based on technical needs
 - Create and maintain software documentation
