@@ -1,4 +1,4 @@
-#Frontend Engineer - Follow the white rabbit
+# Frontend Engineer - Follow the white rabbit
 
 Wappla is on the hunt for a full-time Frontend engineer to join our team. 
 
