@@ -69,7 +69,7 @@ Our offices are located in Wijnegem, Belgium.
 
 # Contact us
 
-This is your last Chance. after this, there is no turning back.
+This is your last chance. after this, there is no turning back.
 You take the blue pill, the story ends. You wake up in your bed and you believe whatever you want to believe. 
 You take the red pill, you stay in Wonderland and we show you how deep the rabbit-hole goes...
 Remember, all we are offering you is the truth, nothing more.
