@@ -1,24 +1,24 @@
-# Job brief
+# Office assistant - Half time
 
-Wappla a software boutique company that helps organisations build  great software to improve their business and their life, is growing and looking for you to be our next Office Assistant. If you are enthusiastic, good with people, willing to learn and grow with us and you have some experience working in administration and finance preferably with high tech companies we would like to hear from you soon, please send your resume to jobs@wappla.com
+Wappla is a company with a passion for building digital products. Software is at the heart of everything we do. We love writing code and bringing ambitious product visions to life. Great software is built by people, and every people-first organisation needs an amazing office assistant.
 
+Ultimately, your job is to ensure the efficient and smooth day-to-day operation of our company
 
-## What does the job include?
-Office assistant responsibilities include making meeting arrangements, preparing reports and maintaining appropriate filing systems. The ideal candidate should have excellent oral and written communication skills and be able to organize their work using tools, like MS Excel and office equipment. If you also have previous experience as a Secretary or Executive administrative assistant and familiarity within our industry, we’d like to meet you.
-
-Ultimately, a successful Office Assistant should ensure the efficient and smooth day-to-day operation of our company.
 
 ### Responsibilities
+
+- Update and maintain office policies and procedures
+- Make regular orders of goods for the office (e.g. stationery, snacks)
+- Adminstrative support, invoicing and follow-up of payments
+- Develop and maintain a filing system
+- Payroll administration
+- Assist in the preparation of regularly scheduled reports
 - Answer and direct phone calls
 - Act as the point of contact for clients
 - Organize and schedule appointments
-- Write and distribute email correspondence
-- Assist in the preparation of regularly scheduled reports
-- Develop and maintain a filing system
-- Update and maintain office policies and procedures
-- Invoicing and follow-up of payments
-- Lead generation through online channels
-- Generating recruitment leads via LinkedIn
+- Assist in lead generation through online channels
+- Assist in recruitment via LinkedIn
+
  
 ## Requirements
 - Proven experience as an administrative assistant, virtual assistant or office admin assistant
@@ -26,11 +26,48 @@ Ultimately, a successful Office Assistant should ensure the efficient and smooth
 - Proficiency in MS Office (MS Excel and MS PowerPoint, in particular)
 - Excellent time management skills and the ability to prioritize work
 - Attention to detail and problem solving skills
-- Excellent written and verbal communication skills in Dutch. French is a plus
+- Excellent written and verbal communication skills
 - Strong organizational skills with the ability to multi-task
-- High School degree; additional qualification as an Administrative assistant or Secretary will be a plus
+- Immune to stress, reliable, spontaneous and sociable are attributes that describe you
+
+
+## Bonus requirements
+- Written and verbal communication skills in French
+- additional qualification as an Administrative assistant or Secretary will be a plus
 - Good knowledge of LinkedIn is a plus
 
+
+## What we have to offer
+- Money
+- Flexible working environment with a bright growth prospect
+- Working in a small team where everyone's input is extremely valuable
+- Working in a fast-paced startup environment with lots of learning opportunities
+- 10 days of vacation
+- MacBook and iPhone (or similar Android...)
+- Mobile Subscription with 10Gb internet 
+- Hospitalization insurance
+- Meal vouchers
+- Ecocheques
+- 1 unlisted perk (apply to find out what it is)
+
+
+## Things we are really passionate about and we hope you are to
+- Office parties
+- Free beer
+- Board games
+- Awesome parties
+- Festivals
+- Skiing
+
+
+## Contact us
+
+This is your last chance. after this, there is no turning back.
+You take the blue pill, the story ends. You wake up in your bed and you believe whatever you want to believe. 
+You take the red pill, you stay in Wonderland and we show you how deep the rabbit-hole goes...
+Remember, all we are offering you is the truth, nothing more.
+
+jobs@wappla.com
 
 
 
