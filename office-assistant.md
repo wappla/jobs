@@ -1,12 +1,12 @@
 # Job brief
 
-Wappla a software boutique company that helps organisations build  great software to improve their business and their life, is growing and looking for you to be our next Virtual Assistant. If you are enthusiastic, good with people, willing to learn and grow with us and you have some experience working in administration and finance preferably with high tech companies we would like to hear from you soon, please send your resume to jobs@wappla.com
+Wappla a software boutique company that helps organisations build  great software to improve their business and their life, is growing and looking for you to be our next Office Assistant. If you are enthusiastic, good with people, willing to learn and grow with us and you have some experience working in administration and finance preferably with high tech companies we would like to hear from you soon, please send your resume to jobs@wappla.com
 
 
 ## What does the job include?
-Virtual assistant responsibilities include making meeting arrangements, preparing reports and maintaining appropriate filing systems. The ideal candidate should have excellent oral and written communication skills and be able to organize their work using tools, like MS Excel and office equipment. If you also have previous experience as a Secretary or Executive administrative assistant and familiarity within our industry, we’d like to meet you.
+Office assistant responsibilities include making meeting arrangements, preparing reports and maintaining appropriate filing systems. The ideal candidate should have excellent oral and written communication skills and be able to organize their work using tools, like MS Excel and office equipment. If you also have previous experience as a Secretary or Executive administrative assistant and familiarity within our industry, we’d like to meet you.
 
-Ultimately, a successful Admin Assistant should ensure the efficient and smooth day-to-day operation of our company.
+Ultimately, a successful Office Assistant should ensure the efficient and smooth day-to-day operation of our company.
 
 ### Responsibilities
 - Answer and direct phone calls
